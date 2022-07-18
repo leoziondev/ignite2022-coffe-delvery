@@ -34,3 +34,7 @@ React Router DOM
 ```
 yarn add react-router-dom
 ```
+Phosphor React Icons
+```
+yarn add phosphor-react
+```
