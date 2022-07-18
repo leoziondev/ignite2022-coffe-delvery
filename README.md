@@ -38,3 +38,7 @@ Phosphor React Icons
 ```
 yarn add phosphor-react
 ```
+Polished
+```
+yarn add polished
+```
