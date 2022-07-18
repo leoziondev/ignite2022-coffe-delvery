@@ -37,12 +37,9 @@ export function Hero() {
               text="O café chega fresquinho até você"
               bg={colors["brand-purple"]}
             />
-            <p>
-              
-            </p>
           </HeroFeatures>
         </div>
-        <img src={coffeHero} alt="" />
+        <img src={coffeHero} alt="Imagem de Café Delicioso by Coffe Delivery" />
       </HeroContent>
     </HeroContainer>
   )
