@@ -1,4 +1,4 @@
-# Desafio 02 - Coffe Delivery em ReactJS
+# Desafio 02 - Coffe Delivery em ReactJS & Typescript
 ### __Ignite 2022 by Rocketseat__
 
 __Desafio__: Desenvolver uma aplicação para gerenciar um carrinho de compras de uma cafeteria fictícia, que contém as seguintes funcionalidades:
@@ -19,3 +19,14 @@ __Desafio__: Desenvolver uma aplicação para gerenciar um carrinho de compras d
 * Listas e chaves no ReactJS;
 * Propriedades;
 * Componentização
+
+### Pacotes e Instalações usadas neste projeto
+
+Styled Components
+```
+yarn add styled-components 
+```
+Types Styled Components
+```
+yarn add @types/styled-components -D
+```
