@@ -29,8 +29,9 @@ export const HeroContent = styled.div`
   gap: 3.5rem;
 
   @media(max-width: 768px) {
-    flex-direction: column;
-    margin-top: 16rem;
+    img {
+      display: none;
+    }
   }
 `
 
